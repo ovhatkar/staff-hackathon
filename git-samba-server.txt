@@ -1,0 +1,9 @@
+SAMBA server:
+
+machine ip : 172.18.0.131
+
+users: 
+1. shuhari 
+2. user1
+
+smbshare passwd: shuhari@123
